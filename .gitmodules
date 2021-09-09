@@ -14,3 +14,7 @@
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
 	branch = 13.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:vauxoo/purchase-workflow.git
+	branch = 13.0
